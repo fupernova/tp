@@ -145,7 +145,7 @@ public class Parser {
 
         return new DoneCommand(moduleCode);
     }
-    
+
     /**
      * Creates new instance of ExitCommand class to execute.
      *
